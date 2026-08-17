@@ -63,7 +63,6 @@ Car-Price-Prediction/
 │   └── pipeline/
 │       └── predict_pipeline.py
 │
-├── artifacts/
 │
 ├── app.py
 ├── main.py
